@@ -1,0 +1,19 @@
+include-social-icons: yes
+
+social-links:
+  - email: no
+  - linkedin: yes
+  - x: no
+  - instagram: no
+  - facebook: no
+  - github: yes
+
+text-links:
+  - text: About
+    relative-url: about
+  - text: Blog
+    relative-url: blog
+
+line1-html: <div class="gs-text-align-horizontal-center"><span>&copy;<span> <span id="year"></span> Ross Godwin. All Rights Reserved.</div>
+
+line2-html: <div class="gs-text-align-horizontal-center"><span class="gs-text-b16-m2">Created with <a href="https://jekyllrb.com" target="_blank"><b>Jekyll</b></a>. Theme by <a href="https://github.com/rossgodwin/bojekylls" target="_blank"><b>Bojekylls</b></a>.</span></div>

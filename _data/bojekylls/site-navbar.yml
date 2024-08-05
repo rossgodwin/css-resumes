@@ -1,0 +1,12 @@
+title: CSS Resumes
+
+height: 40px
+
+logo:
+  image-relative-url: assets/images/site/logo.png
+  relative-url: /
+
+menu:
+  - title: Resumes
+    url:
+      internal-relative-url: resumes

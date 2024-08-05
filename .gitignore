@@ -1,0 +1,7 @@
+/vendor/
+/Gemfile.lock
+/.project
+/.bundle/
+/.jekyll-cache/
+/.settings/
+/_site/

@@ -1,0 +1,16 @@
+---
+layout: bojekylls/default
+---
+
+<section class="gs-bjk-page-narrow_content">
+	<div class="gs-padding-bottom-30">
+		<div class="gs-cssr-resume">
+			{{ content }}
+		</div>
+		
+		<section class="gs-cssr-resume-download-options gs-text-align-horizontal-center gs-margin-top-30">
+			{% include css-resumes/layout/resume/download-versions.html
+				pdf-relative-url=page.pdf-relative-url %}
+		</section>
+	</div>
+</section>

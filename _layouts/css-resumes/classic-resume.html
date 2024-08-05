@@ -1,0 +1,32 @@
+---
+layout: css-resumes/resume
+pdf-relative-url: assets/docs/classic-resume.pdf
+---
+
+<section class="gs-bjk-resume-classic">
+	{% include css-resumes/layout/resume/classic/header.html
+		name=page.cv-name
+		title=page.cv-title
+		location=page.cv-location
+		phone-number=page.cv-phone-number
+		website=page.cv-website
+		linkedin=page.cv-linkedin %}
+	
+	<hr>
+	
+	{% include css-resumes/layout/resume/classic/introduction.html
+		heading=page.cv-intro-heading-text
+		description=page.cv-intro %}
+	
+	{% include css-resumes/layout/resume/classic/work-history.html
+		heading=page.cv-work-history-heading-text
+		companies=page.cv-work-history-companies %}
+	
+	{% include css-resumes/layout/resume/classic/skills.html
+		heading=page.cv-skills-heading-text
+		skills=page.cv-skills %}
+	
+	{% include css-resumes/layout/resume/classic/education.html
+		heading=page.cv-education-heading-text
+		degrees=page.cv-education-degrees %}
+</section>
