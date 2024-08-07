@@ -6,10 +6,10 @@ pdf-relative-url: assets/docs/classic-resume-example.pdf
 cv-name: Andree Rocher
 cv-location: Philadelphia, PA
 cv-phone-number: 705-555-0121
-cv-title: Professional Title
+cv-title: Data Scientist
 cv-linkedin:
-  display-url: linkedin.com/in/ross-godwin
-  url: https://www.linkedin.com/in/ross-godwin
+  display-url: linkedin.com/in/john-doe-80010546
+  url: https://www.linkedin.com/in/john-doe-80010546/
 cv-intro-heading-text: Summary
 cv-intro: To obtain a challenging data scientist position in a dynamic and innovative organization where I can use my technical and analytical skills.
 cv-work-history-heading-text: Professional History
@@ -42,7 +42,7 @@ cv-skills:
   - Leadership
 cv-education-heading-text: Educational History
 cv-education-degrees:
-  - school: Bellows Collegeeee
+  - school: Bellows College
     years: 1999-2003
     major: BS Mathematics
     latin-honor: Magna cum laude
