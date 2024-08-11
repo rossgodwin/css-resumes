@@ -2,12 +2,12 @@ theme: jekyll-theme-bojekylls
 
 # Site wide configuration
 destination: docs
-url: 'https://rossgodwin.com'
-baseurl: ''
+url: 'https://rossgodwin.github.io'
+baseurl: '/css-resumes.com'
 lang: en
 
 # Analytics
-#google_analytics_measurement_id: G-CNWKCECNVN
+google_analytics_measurement_id: G-693XWNBCMQ
 
 # Jekyll configuration
 show_drafts: false
@@ -58,7 +58,6 @@ gems:
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 defaults:
   - scope:
@@ -108,7 +107,3 @@ autopages:
     slugify:
       mode: 'ascii'
       cased: true
-
-# Plugin: Redirect (jekyll-redirect-from)
-redirect_from:
-  json: false

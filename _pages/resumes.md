@@ -2,7 +2,7 @@
 layout: bojekylls/header-body-footer/posts
 permalink: /resumes/
 title: Resumes
-include-seo: false
+include-seo: true
 show-page-loading-overlay: true
 pagination:
   enabled: true

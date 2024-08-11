@@ -7,6 +7,10 @@ logo:
   relative-url: /
 
 menu:
+  - title: Github
+    url:
+      external-url: https://github.com/rossgodwin/css-resumes.com
+    open-new-tab: yes
   - title: Resumes
     url:
       internal-relative-url: resumes

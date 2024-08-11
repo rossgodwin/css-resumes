@@ -7,7 +7,7 @@ primary-image-relative-url: assets/images/blog/classic-resume/banner.png
 primary-image-author-name: Coffee Bean
 primary-image-author-url: https://pixabay.com/users/coffeebeanworks-558718/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2017978
 categories: [resumes]
-tags: [resume]
+tags: [resume, css resume, online resume]
 date: 2024-7-25
 ---
 
