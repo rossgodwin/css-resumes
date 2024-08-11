@@ -16,7 +16,7 @@ echo README.md >> %_exclude_filename%
 echo %_exclude_filename% >> %_exclude_filename%
 echo %~nx0 >> %_exclude_filename%
 
-Set "_destination_folder=D:\Temp\css-resumes"
+Set "_destination_folder=D:\Temp\css-resumes.com"
 
 xcopy . %_destination_folder% /i /s /e /y /exclude:%_exclude_filename%
 xcopy .\_sass %_destination_folder%\_sass /i /s /e /y
